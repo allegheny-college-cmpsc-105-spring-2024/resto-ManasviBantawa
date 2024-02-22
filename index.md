@@ -3,12 +3,16 @@ layout: post
 title: "about"
 ---
 
+# CAFE COKU 
+
+
 - TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
 - TODO: replace the content of this file with a description of the concept of your restaurant
-  - this markdown file will become the home page of the website automatically, so include
+  
+  - This markdown file will automatically become the home page of the website, so include
     information that you think belongs on the home page.
-  - remember, two colleagues will review your site!
-  - use good markdown style
+
+
   - the website formatting is limited to markdown, but
   [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
 - TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
@@ -65,26 +69,6 @@ towards the exploration of natural, physical, behavioral, or social phenomena.
 an understanding of how to interpret numeric data and/or their graphical or symbolic
 representations.
 
-## <span style="color:green">Schedule at-a-glance</span>
-
-- **Week One**: January 17 to January 19: Setup
-- **Week Two**: January 22 to January 26: Intro to Visualization Tools
-- **Week Three**: January 29 to February 02: Data Transformations
-- **Week Four**: February 5 to February 9: Storytelling with Data
-- **Week Five**: February 12 to February 16: Google Analytics + Dashboards
-- **Week Six**: February 19 to February 23: BI suites
-- **Week Seven**: February 26 to March 01: Stats Concepts
-- **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- **Week Nine**: March 18 to March 22: Introduction to Numpy
-- **Week Ten**: March 25 to March 29: [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
-- **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
-- **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
-- **Week Thirteen**: April 15 to April 19: Project Consulting
-- **Week Fourteen**: April 22 to April 26: Projects Continued
-- **Week Fifteen**: April 29: TBD
-- **Final Examination**: *Examination Code*: J, *Date*: Tuesday, May 7nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
-    - Presentations
 
 ## <span style="color:green">Resources</span>
 
