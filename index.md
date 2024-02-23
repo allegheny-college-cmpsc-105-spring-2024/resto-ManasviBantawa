@@ -17,8 +17,7 @@ We take our customers very seriously and do not allow anyone without referrals t
 
 <p align="center">
   
-![images](https://mitp-p-001.sitecorecontenthub.cloud/api/public/content/6ad9794b914f4719a5977af3a4e0635d)
-
+![images](assets/images/restaurant.jpeg)
 </p>
 
 
