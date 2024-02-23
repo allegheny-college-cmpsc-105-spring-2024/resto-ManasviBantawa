@@ -3,7 +3,7 @@ layout: post
 title: "about"
 ---
 
-<h1 align="center"><span>
+<h1 align="center">
 <span style="color:red">CAFE COKU</span> 
 </h1>
 
