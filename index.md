@@ -7,14 +7,7 @@ title: "about"
 
 # CAFE COKU   
 </h1>
-
-- TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
-- TODO: replace the content of this file with a description of the concept of your restaurant
   
-  - This markdown file will automatically become the home page of the website, so include
-    information that you think belongs on the home page.
-
-
   - the website formatting is limited to markdown, but
   [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
 - TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
