@@ -7,7 +7,13 @@ title: "at CAFE COKU"
 <span style="color:red">CAFE COKU</span> 
 </h1>
 
-This cafe is a second home to future leaders, thinkers, and doers, all alike. An exclusive yearly subscription is required to enter the cafe and can only be subscribed based on referrals from friends and family.
+Founded in 2030, this cafe is a second home to  leaders, thinkers, makers, and doers, all alike. An exclusive yearly subscription is required to enter Cafe Coku and can only be subscribed based on referrals from friends and family. 
+
+
+Many Academy Award-winning directors, writers, producers, are our customers here.
+
+We take our customers very seriously and do not allow anyone without referrals to be a subscriber. If you are our customer, you are able to bring five guests at a time.
+
 
 <p align="center">
 
