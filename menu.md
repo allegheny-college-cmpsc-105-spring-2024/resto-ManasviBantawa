@@ -5,11 +5,11 @@ permalink: /menu
 nav: true
 ---
 
-## THE MENU 
-<SPAN STYLE=font-size:22.0pt>
+## THE MENU <SPAN STYLE=font-size:22.0pt><span>
 
 
-<p align="center">
+
+<p align="center"><span>
   
 #### Gordon Ramsay's Fish & Chips Combo 
 </p>
