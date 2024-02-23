@@ -14,5 +14,10 @@ nav: true
 - price: $111.00
 
 <p align="center">
-  <img width="460" height="450" src="![images[(assets/images/fishnchips.png)>
+![images](assets/images/fishnchips.png)
+</p>
+
+
+<p align="center">
+  <img width="460" height="450" src="![images](assets/images/fishnchips.png)>
 </p>
