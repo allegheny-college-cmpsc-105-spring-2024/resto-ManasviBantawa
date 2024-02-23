@@ -12,10 +12,9 @@ nav: true
 
 <h1 align="center"><span>
   
-#### Gordon Ramsay's Fish & Chips Combo 
+#### Gordon Ramsay's Fish & Chips Combo, $111.00
 </h1>
 
-price: $111.00
 
 <p align="center">
   
@@ -24,7 +23,7 @@ price: $111.00
 
 <h1 align="center"><span>
 
-#### Eggs Benedict-cumberbatch ($99.99)
+#### Eggs Benedict-Cumberbatch, $99.99
 </h1>
 
 <p align="center">
