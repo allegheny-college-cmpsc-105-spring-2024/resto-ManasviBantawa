@@ -3,8 +3,10 @@ layout: post
 title: "about"
 ---
 
-# CAFE COKU 
+<h1 align="center"><span>
 
+# CAFE COKU   
+</h1>
 
 - TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
 - TODO: replace the content of this file with a description of the concept of your restaurant
