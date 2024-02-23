@@ -6,6 +6,7 @@ permalink: explorations/review1
 nav: true
 ---
 
+Habesha Delight was an absolute delight! This restaurant offered a fascinating experience, with a pleasing ambiance and delectable food. The exceptional service added to the overall enjoyment, creating a comfortable and welcoming atmosphere. The highlight was when the chef personally visited our table, enhancing our dining experience. The lovely guests around us contributed to the positive environment, making the visit memorable. I wholeheartedly recommend Habesha Delight to anyone seeking a delightful culinary adventure. The pricing proved to be reasonable considering the quality of both the food and service. I visited with my family, and it was undoubtedly a worthwhile experience, making it an ideal recommendation for a family outing. The combination of great food, attentive service, and a charming atmosphere makes Habesha Delight a standout dining destination.
 
-Habesha Delight was suchhhhh a delight! This restaurant was fascinating! The ambiance was nice, and the food was great! The service was incredible and made me feel comfortable. The chef came to see us, and it was a wonderful experience. The guests were lovely and it created a great environment. I would definitely recommend anyone to visit Habesha Delight. The price was great for the food and service. I went with my family and it was definitely worth the time, and would recommend a family trip. 
+
 
