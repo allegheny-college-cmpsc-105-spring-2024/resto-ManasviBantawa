@@ -6,7 +6,7 @@ nav: true
 ---
 
 Located in Singapore, Singapore
-Call us on our phone from the business card we have provided. We do not disclose our numbers online.
+Call us on our phone using the business card we have provided. We do not disclose our numbers online.
 
 If you plan on bringing guests, please let us know at least three days in advance.
 
