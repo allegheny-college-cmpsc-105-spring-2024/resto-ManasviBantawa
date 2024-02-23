@@ -5,9 +5,12 @@ title: "about"
 
 <h1 align="center"><span>
 
-# CAFE COKU   
+# CAFE COKU 
+## <span style="color:red">**cafe coku**</span>
 </h1>
-  
+
+
+
   - the website formatting is limited to markdown, but
   [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
 - TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
