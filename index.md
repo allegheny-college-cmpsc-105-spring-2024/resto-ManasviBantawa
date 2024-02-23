@@ -15,10 +15,11 @@ Many Academy Award-winning directors, writers, producers, are our customers here
 We take our customers very seriously and do not allow anyone without referrals to be a subscriber. If you are our customer, you are able to bring five guests at a time.
 
 
-<p align="center">
+
   
 ![images](assets/images/restaurant.jpeg)
-</p>
+
+
 
 
 
