@@ -5,11 +5,8 @@ title: "about"
 
 <h1 align="center"><span>
 
-# CAFE COKU 
+# CAFE COKU </h1>
 
-
-</h1>
-## <span style="color:red">**cafe coku**</span>
 
 
 - the website formatting is limited to markdown, but
