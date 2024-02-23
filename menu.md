@@ -6,8 +6,6 @@ nav: true
 ---
 
 ## THE MENU
-<span style=font-size:22.0pt><span>
-
 
 
 <p align="center"><span>
