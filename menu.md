@@ -25,5 +25,5 @@ price: $111.00
 #### Eggs Benedict-cumberbatch ($99.99)
 
 <p align="center">
-  <img width="460" height="600" src="https://s23209.pcdn.co/wp-content/uploads/2022/09/220602_DD_Eggs-Benedict_368.jpg">
+  <img width="460" height="640" src="https://s23209.pcdn.co/wp-content/uploads/2022/09/220602_DD_Eggs-Benedict_368.jpg">
 </p>
