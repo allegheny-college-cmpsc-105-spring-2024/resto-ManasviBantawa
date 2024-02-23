@@ -7,7 +7,7 @@ nav: true
 
 <h1 align="center"> 
   
-# THE MENU
+THE MENU
 </h1>
 
 
