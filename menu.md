@@ -9,8 +9,8 @@ nav: true
 
 
 
-#### lettuce
+#### Fish & Shrimp Combo
 
-- price: $100
+- price: $1000
 
 ![images](assets/images/magnifying-glass-logo.jpeg)
