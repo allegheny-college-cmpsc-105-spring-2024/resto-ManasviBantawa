@@ -1,15 +1,13 @@
 ---
 layout: page
-title: amazing menu
+title: Our Menu
 permalink: /menu
 nav: true
 ---
 
-<h1 align="center"> 
-  
-THE MENU
+<h1 align="center">
+<span style="color:red">OUR MENU</span> 
 </h1>
-
 
   
 #### Gordon Ramsay's Fish & Chips Combo, $111.00
