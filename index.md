@@ -16,8 +16,9 @@ We take our customers very seriously and do not allow anyone without referrals t
 
 
 <p align="center">
-
+  
 ![images](assets/images/restaurant.jpeg)
+
 </p>
 
 
