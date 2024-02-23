@@ -22,8 +22,8 @@ price: $111.00
 ![images](assets/images/fishnchips.png)
 </p>
 
-#### Eggs Benedict-cumberbatch
+#### Eggs Benedict-cumberbatch ($99.99)
 
 <p align="center">
-  <img width="460" height="550" src="https://s23209.pcdn.co/wp-content/uploads/2022/09/220602_DD_Eggs-Benedict_368.jpg">
+  <img width="460" height="600" src="https://s23209.pcdn.co/wp-content/uploads/2022/09/220602_DD_Eggs-Benedict_368.jpg">
 </p>
