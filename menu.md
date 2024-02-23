@@ -13,9 +13,10 @@ nav: true
 
 - price: $111.00
 
-
+<p align="center">
+  
 ![images](assets/images/fishnchips.png)
-
+</p>
 
 
 <p align="center">
