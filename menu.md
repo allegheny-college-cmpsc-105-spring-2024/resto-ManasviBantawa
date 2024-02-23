@@ -8,10 +8,10 @@ nav: true
 ## THE MENU
 
 
-<p align="center"><span>
+<h1 align="center"><span>
   
 #### Gordon Ramsay's Fish & Chips Combo 
-</p>
+</h1>
 
 price: $111.00
 
