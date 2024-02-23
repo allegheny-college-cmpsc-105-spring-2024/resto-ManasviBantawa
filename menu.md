@@ -6,6 +6,7 @@ nav: true
 ---
 
 ## THE MENU 
+<SPAN STYLE=font-size:22.0pt>
 
 
 <p align="center">
@@ -19,3 +20,5 @@ nav: true
   
 ![images](assets/images/fishnchips.png)
 </p>
+
+#### 
