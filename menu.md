@@ -5,8 +5,7 @@ permalink: /menu
 nav: true
 ---
 
-<h1 align="center"> <span>
-  
+<h1 align="center"> 
 # THE MENU
 </h1>
 
