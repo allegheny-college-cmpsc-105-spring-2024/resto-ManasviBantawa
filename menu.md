@@ -9,8 +9,8 @@ nav: true
 
 
 
-#### Fish & Shrimp Combo
+#### Gordon Ramsay's Fish & Chips Combo
 
-- price: $1000
+- price: $111.00
 
 ![images](assets/images/magnifying-glass-logo.jpeg)
