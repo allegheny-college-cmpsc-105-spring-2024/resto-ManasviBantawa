@@ -10,15 +10,12 @@ nav: true
 # THE MENU
 </h1>
 
-<h1 align="center"><span>
+
   
 #### Gordon Ramsay's Fish & Chips Combo, $111.00
-</h1>
 
-<p align="center">
-  
 ![images](assets/images/fishnchips.png)
-</p>
+
 
 
 <h1 align="center"><span>
