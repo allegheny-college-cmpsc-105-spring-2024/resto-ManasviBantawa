@@ -9,14 +9,11 @@ title: "about"
 
 
 
-- the website formatting is limited to markdown, but
-  [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
 - TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
   put in this section.
   - Use Markdown syntax for the quotes.
   - after the review phase, you can replace this with two real quotes from your fellow
   food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
