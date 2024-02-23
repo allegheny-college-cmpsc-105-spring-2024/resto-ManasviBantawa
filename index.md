@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "at CAFE COKU"
+title: "CAFE COKU"
 ---
 
 <h1 align="center">
