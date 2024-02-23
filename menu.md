@@ -9,16 +9,11 @@ nav: true
 
 
 
-#### Gordon Ramsay's Fish & Chips Combo
+#### Gordon Ramsay's Fish & Chips Combo </p>
 
 - price: $111.00
 
 <p align="center">
   
 ![images](assets/images/fishnchips.png)
-</p>
-
-
-<p align="center">
-  <img width="460" height="450" src="![images](assets/images/fishnchips.png)>
 </p>
