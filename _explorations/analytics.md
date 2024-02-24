@@ -11,7 +11,7 @@ If you were a real restaurant owner, explain how this information could help
 you improve your business and why you came to your conclusions.
 
 
-![images](assets/images/googleanalytic.png) 
+![images](../assets/images/googleanalytic.png) 
 
 
 TODO: include at least one analytics plot to back up your claims.
