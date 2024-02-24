@@ -11,4 +11,4 @@ The geographical data obtained from Google Analytics, indicating that seven webs
 
 ![images](../assets/images/googleanalytic.png) 
 
-
+![images](../assets/images/googleanalytics2.png)
