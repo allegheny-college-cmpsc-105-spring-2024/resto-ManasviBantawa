@@ -5,7 +5,10 @@ permalink: /contact
 nav: true
 ---
 
-# Located in Singapore, Singapore
+<h1 align="center">
+<span style="color:red">Located in Singapore, Singapore</span> 
+</h1>
+
 
 Call us on our phone using the business card we have provided. We do not disclose our numbers online.
 
