@@ -7,16 +7,6 @@ title: "CAFE COKU"
 <span style="color:red">CAFE COKU</span> 
 </h1>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FY7TL4YVWQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FY7TL4YVWQ');
-</script>
-
 Founded in 2030, by Manasvi Bantawa, this cafe is a second home to  leaders, thinkers, makers, and doers, all alike. An exclusive yearly subscription is required to enter Cafe Coku and can only be subscribed based on referrals from friends and family. 
 
 
