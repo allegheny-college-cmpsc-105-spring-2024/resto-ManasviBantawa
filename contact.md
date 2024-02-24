@@ -7,16 +7,6 @@ nav: true
 
 # Located in Singapore, Singapore
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FY7TL4YVWQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FY7TL4YVWQ');
-</script>
-
 Call us on our phone using the business card we have provided. We do not disclose our numbers online.
 
 If you plan on bringing guests, please let us know at least three days in advance.
