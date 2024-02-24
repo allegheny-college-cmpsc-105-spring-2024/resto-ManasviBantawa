@@ -9,6 +9,16 @@ nav: true
 <span style="color:red">OUR MENU</span> 
 </h1>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FY7TL4YVWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FY7TL4YVWQ');
+</script>
+
   
 #### Gordon Ramsay's Fish & Chips Combo, $111.00
 
