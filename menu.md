@@ -1,21 +1,26 @@
 ---
 layout: page
-title: amazing menu
+title: Our Menu
 permalink: /menu
 nav: true
 ---
 
-## menu
+<h1 align="center">
+<span style="color:red">OUR MENU</span> 
+</h1>
 
-this is the menu
+  
+#### Gordon Ramsay's Fish & Chips Combo, $111.00
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+![images](assets/images/fishnchips.png)
 
-### menu item 1
 
-#### lettuce
 
-- price: $100
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+
+#### Eggs Benedict-Cumberbatch, $99.99
+
+
+<p align="center">
+  <img width="560" height="800" src="https://s23209.pcdn.co/wp-content/uploads/2022/09/220602_DD_Eggs-Benedict_368.jpg">
+</p>
